@@ -4,7 +4,7 @@
   font-family: Alegreya;
 }
 header{
-  background-image : url(../background.png);
+  background-image : url(background.png);
   height :100vh;
   background-size : cover;
   background-position : center;
