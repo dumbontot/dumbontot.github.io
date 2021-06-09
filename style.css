@@ -27,6 +27,10 @@ u li a: hover{
   background color: #ffffff
   color: 6aec6a
 }
+ul li.active a{
+  background color: #ffffff
+  color: 6aec6a
+}
 .logo img{
   float: left;
   width:  150px;
