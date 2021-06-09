@@ -9,11 +9,17 @@ header{
   background-size: cover;
   background-position: center;
 }
-ul{
-  float: left;
+ul{1px solid
+  float: right;
   list-style-type: none; 
 }
 ul li{
   display: inline-block;
+}
+ul li a{
+  text decoration: none;
+  color: #ffffff;
+  padding: 5px 20px
+  border: 1px solid #ffffff;
 }
   
