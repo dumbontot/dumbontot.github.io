@@ -25,10 +25,10 @@ ul li a{
 }
 u li a: hover{
   background color: #ffffff
-  coolor: 6aec6a
+  color: 6aec6a
 }
 .logo img{
   float: left;
-  width:  250px;
+  width:  100px;
   height: auto;
 }
