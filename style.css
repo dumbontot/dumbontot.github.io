@@ -29,6 +29,10 @@ u li a: hover{
 }
 .logo img{
   float: left;
-  width:  100px;
+  width:  150px;
   height: auto;
+}
+.main{
+  max-width: 1200px;
+  margin: auto;
 }
