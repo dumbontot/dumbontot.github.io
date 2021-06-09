@@ -33,11 +33,11 @@ ul li a{
 }
 u li a: hover{
   background color: #fff
-  color: 6aec6a
+  color: #6aec6a
 }
 ul li.active a{
   background color: #fff
-  color: 6aec6a
+  color: #6aec6a
 }
 .logo img{
   float: left;
