@@ -10,7 +10,7 @@ header{
   background-position: center;
 }
 ul{1px solid
-  float: right;
+  float: left;
   list-style-type: none; 
 }
 ul li{
@@ -28,7 +28,7 @@ u li a: hover{
   coolor: 6aec6a
 }
 .logo img{
-  float: left;
+  float: right;
   width:  250px;
   height: auto;
 }
