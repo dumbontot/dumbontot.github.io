@@ -8,10 +8,11 @@ body{
   height: 100vh;
   color: grey;
 }
-header{
-  list-style: none;
-  margin: 50px 0 0 0;
-  text-align: right;
+topnav{
+  float: right;
+  color: white;
+  font-family: Sans Serif;
+  word-spacing: 5px;
 }
 ul{
   <img src="logo.png" alt="logo"
@@ -19,7 +20,7 @@ ul{
   position: relative;
     top: -15px;
     width: 150px;
-    height: auto;
+    height: 100px;
 }
 ul li{
   display: inline-block;
@@ -30,6 +31,6 @@ ul li{
   border: 1px solid transparent;
 }
 ul li : hover{
-  background-color: green;
+  background-color: #18A558;
   color: white;
 }
