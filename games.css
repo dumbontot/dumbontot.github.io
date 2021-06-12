@@ -4,14 +4,12 @@ body{
     color: #373737;
 }
 h1{
-  text-align: centre;
   color: white;
-  font-size: 100px;
+  font-size: 50px;
   font-family: roboto;
 }
 p{
-  text-align: centre;
   color: white;
-  font-size: 50px;
+  font-size: 20px;
   font-family: Sans Serif;
 }
