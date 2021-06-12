@@ -15,7 +15,11 @@ h1{
   font-size: 100px;
   font-family: roboto;
 }
-p{  
+p{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 310px;
   color: white;
   font-size: 50px;
   font-family: Sans Serif;
