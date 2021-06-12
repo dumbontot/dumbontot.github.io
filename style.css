@@ -14,10 +14,11 @@ header{
 }
 ul{
   <img src="logo.png" alt="logo"
-  style="float: left; 
-  margin-right: 25px;">
-  width: 150px;
-  height: auto;
+  style="float: left;
+  position: relative;
+    top: -15px;
+    width: 150px;
+    height: auto;
 }
 ul li{
   display: inline-block;
