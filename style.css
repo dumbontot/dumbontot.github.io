@@ -10,11 +10,13 @@ body{
 }
 header{
   float: right;
+  margin-top: 25px
 }
 ul{
-  float: left;
+  <img src="logo.png" alt="logo"
+  style="float: left; 
+  margin-right: 15px;">
   list-style-type: none;
-  margin-top: 25px
 }
 ul li{
   display: inline-block;
