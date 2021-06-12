@@ -1,4 +1,4 @@
-h1{
+tittle{
   color: white;
   font-size: 40px;
   font-family: Sans Serif;
@@ -8,7 +8,7 @@ body{
   height: 100vh;
   color: black;
 }
-header1{
+header{
   float: left;
 }
 ul{
