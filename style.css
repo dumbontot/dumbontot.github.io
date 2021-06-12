@@ -1,3 +1,21 @@
-
-
+title{
+  color: white;
+  font-size: 40px;
+  font-family: Sans Serif;
+}  
+body{
+  background-color: black;
+  height: 100vh;
+  color: black;
+}
+header1{
+  float: left;
+}
+ul{
+  float: right;
+  list-style-type: none;
+}
+ul li{
+  display: inline-block;
+}
 
