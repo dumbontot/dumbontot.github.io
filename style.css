@@ -14,11 +14,17 @@ header{
 ul{
   float: left;
   list-style-type: none;
-  display: inline-block;
-  text-decoration: none;
-  color: white;
-  padding: 5px 20px;
-  border: 1px solid white;
-}
+  
+  ul li{
+     display: inline-block;
+  }
+  
+  ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 20px;
+    border: 1px solid white;
+  }
+
 
 
