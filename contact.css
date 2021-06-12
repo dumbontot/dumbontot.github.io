@@ -1,1 +1,17 @@
-
+body{
+  background-color: #373737;
+    height: 100vh;
+    color: #373737;
+}
+h1{
+  text-align: centre;
+  color: white;
+  font-size: 100px;
+  font-family: roboto;
+}
+p{
+  text-align: centre;
+  color: white;
+  font-size: 50px;
+  font-family: Sans Serif;
+}
