@@ -20,11 +20,10 @@ head{
   position: relative;
     top: -15px;
     width: 150px;
-    height: 100px;
 }
 ul li{
   display: inline-block;
-  text-align: centre;
+  text-align: center;
   text-decoration: none;
   color: white;
   padding: 5px 20px;
