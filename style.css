@@ -4,9 +4,9 @@ tittle{
   font-family: Sans Serif;
 }  
 body{
-  background-color: dark grey;
+  background-color: grey;
   height: 100vh;
-  color: dark grey;
+  color: grey;
 }
 header{
   float: right;
@@ -16,14 +16,15 @@ ul{
   <img src="logo.png" alt="logo"
   style="float: left; 
   margin-right: 25px;">
-  list-style-type: none;
+  width: 150px;
+  height: auto;
 }
 ul li{
   display: inline-block;
   text-decoration: none;
   color: white;
   padding: 5px 20px;
-  border: 1px solid white;
+  border: 1px solid transparent;
 }
 ul li : hover{
   background-color: neon green;
