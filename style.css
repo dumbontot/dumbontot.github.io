@@ -8,13 +8,13 @@ body{
   height: 100vh;
   color: grey;
 }
-topnav{
+header{
   float: right;
   color: white;
   font-family: Sans Serif;
   word-spacing: 5px;
 }
-ul{
+head{
   <img src="logo.png" alt="logo"
   style="float: left;
   position: relative;
