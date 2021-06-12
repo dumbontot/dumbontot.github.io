@@ -29,4 +29,5 @@ ul li{
 ul li : hover{
   background-color: neon green;
   color: white;
+  text-align: center;
 }
