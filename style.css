@@ -29,7 +29,6 @@ ul li{
   padding: 5px 20px;
   border: 1px solid transparent;
 }
-ul li : hover{
-  background-color: #18A558;
-  color: white;
+.topnav:hover{
+  color: #18A558;
 }
