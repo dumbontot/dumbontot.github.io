@@ -6,7 +6,8 @@ body{
 h1{
   color: white;
   font-size: 50px;
-  font-family: roboto;
+  font-family: Copperplate Gothic;
+  display: inline-block;
 }
 p{
   color: white;
