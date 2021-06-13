@@ -7,11 +7,11 @@ body{
   background-color: #040720;
 }
 h1{
-   position: absolute;
+  position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%); 
-  color: #18191A
+  color: white;
   font-family: open sans;
 }
 }
