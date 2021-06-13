@@ -32,6 +32,9 @@ head{
   position: absolute;
   top: -15px;
 }
+ul{
+  text-align: right;
+}
 ul li{
   display: inline-block;
   text-align: center;
