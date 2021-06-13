@@ -9,7 +9,10 @@ body{
   color: #040720;
 }
 h1{
-  text-align: center;
+   position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%); 
   color: #18191A
   font-family: open sans;
 }
