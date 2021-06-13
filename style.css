@@ -26,9 +26,11 @@ header{
 head{
   <img src="logo.png" alt="logo"
   style="float: left;
+  border-radius: 8px;
   height: 100px;
   width: 111px;
-  margin-top: 25px;
+  position: absolute;
+  top: -15px;
 }
 ul li{
   display: inline-block;
