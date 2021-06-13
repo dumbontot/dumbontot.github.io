@@ -17,9 +17,13 @@ header{
 head{
   <img src="logo.png" alt="logo"
   style="float: left;
+  background-size: 90px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  height: 100px;
+  width: 111px;
   position: relative;
-    top: -15px;
-    width: 150px;
+  top: -15px;
 }
 ul li{
   display: inline-block;
