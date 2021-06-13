@@ -4,9 +4,15 @@ tittle{
   font-family: Sans Serif;
 }  
 body{
-  background-image: url("background (1).png");
+  background-color: #040720;
   height: 100vh;
-  color: black;
+  color: #040720;
+}
+h1{
+  text-align: center;
+  color: #18191A
+  font-family: open sans;
+}
 }
 header{
   float: right;
@@ -26,10 +32,10 @@ ul li{
   display: inline-block;
   text-align: center;
   text-decoration: none;
-  color: black;
+  color: white;
   padding: 5px 20px;
-  border: 1px solid grey;
+  border: 1px solid transparent;
 }
-ul li:hover{
+ul li a:hover{
   color: #18A558;
 }
