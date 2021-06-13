@@ -17,6 +17,8 @@ h1{
 }
 header{
   float: right;
+  list-style-type: none;
+  margin-top: 25px;
   color: white;
   font-family: Sans Serif;
   word-spacing: 5px;
@@ -26,8 +28,7 @@ head{
   style="float: left;
   height: 100px;
   width: 111px;
-  position: relative;
-  top: -15px;
+  margin-top: 25px;
 }
 ul li{
   display: inline-block;
