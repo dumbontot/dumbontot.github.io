@@ -4,9 +4,9 @@ tittle{
   font-family: Sans Serif;
 }  
 body{
-  background-color: grey;
+  background-image: url("background.png");;
   height: 100vh;
-  color: grey;
+  color: black;
 }
 header{
   float: right;
