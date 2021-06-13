@@ -16,7 +16,7 @@ h1{
 }
 }
 header{
-  float: right;
+  text-align: right;
   list-style-type: none;
   margin-top: 25px;
   color: white;
