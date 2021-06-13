@@ -4,7 +4,7 @@ tittle{
   font-family: Sans Serif;
 }  
 body{
-  background-image: url("background (1).png");;
+  background-image: url("background (1).png");
   height: 100vh;
   color: black;
 }
@@ -17,9 +17,6 @@ header{
 head{
   <img src="logo.png" alt="logo"
   style="float: left;
-  background-size: 90px;
-  background-repeat: no-repeat;
-  display: inline-block;
   height: 100px;
   width: 111px;
   position: relative;
@@ -29,9 +26,9 @@ ul li{
   display: inline-block;
   text-align: center;
   text-decoration: none;
-  color: white;
+  color: black;
   padding: 5px 20px;
-  border: 1px solid violet;
+  border: 1px solid grey;
 }
 ul li:hover{
   color: #18A558;
