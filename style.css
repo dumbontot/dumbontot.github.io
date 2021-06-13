@@ -34,14 +34,14 @@ head{
 }
 ul{
   text-align: right;
+  border-radius: 8px;
+  top: -15px;
 }
 ul li{
   display: inline-block;
   text-align: center;
   text-decoration: none;
   color: white;
-  border-radius: 8px;
-  top: -15px;
   border: 1px solid transparent;
 }
 ul li a:hover{
