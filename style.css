@@ -31,8 +31,8 @@ ul li{
   text-decoration: none;
   color: white;
   padding: 5px 20px;
-  border: 1px solid transparent;
+  border: 1px solid violet;
 }
-.topnav:hover{
+ul li:hover{
   color: #18A558;
 }
