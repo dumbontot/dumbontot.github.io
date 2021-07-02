@@ -37,6 +37,7 @@ ul{
 }
 ul li{
   display: inline-block;
+  vertical-align: top;
   margin-top: 30px;
   margin-bottom: 10px;
   text-align: center;
