@@ -35,15 +35,35 @@ head{
 ul{
   text-align: right;
 }
-ul li{
-  display: inline-block;
-  vertical-align: top;
-  margin-top: 30px;
-  margin-bottom: 10px;
-  text-align: center;
-  text-decoration: none;
-  color: white;
-  border: 1px solid transparent;
+.nav{
+  position: relative;
+  border: none;
+  display: flex;
+  list-style-type: none;
+  background: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+}
+.nav li{
+  margin:0;
+}
+.nav li a{
+  position: relative;
+  padding: 10px 36px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #ffffff
+  display: inline-flex;
+  z-index: 3;
+}
+.nav.slide{
+  position: absolute;
+  display: inline-flex;
+  height:5px;
+  bottom:5px;
+  transition: 0.5s cubic-bezier(0.237, 1, 0.32, 1.05);
+  z-index:2;
+  background-color:#7fffd4;
 }
 ul li a:hover{
   background: #18A558;
