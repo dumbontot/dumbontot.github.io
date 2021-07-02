@@ -44,27 +44,6 @@ ul{
   padding: 10px;
   border-radius: 10px;
 }
-.nav li{
-  margin:0;
-}
-.nav li a{
-  position: relative;
-  padding: 10px 36px;
-  font-size: 18px;
-  font-weight: 600;
-  color: #ffffff
-  display: inline-flex;
-  z-index: 3;
-}
-.nav.slide{
-  position: absolute;
-  display: inline-flex;
-  height:5px;
-  bottom:5px;
-  transition: 0.5s cubic-bezier(0.237, 1, 0.32, 1.05);
-  z-index:2;
-  background-color:#7fffd4;
-}
 ul li a:hover{
   background: #18A558;
   box-shadow:0 0 5px #18A558, 0 0 25px #18A558, 0 0 50px #18A558, 0 0 200px #18A558;
