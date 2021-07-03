@@ -38,10 +38,7 @@ ul li{
   display: inline-block;
   line-height: 100%;
   float: right;
-  list-style-type: none;
-  text-align: center;
   border: 1px solid transparent;
-  word-spacing: 20px;
 }
 ul li a:hover{
   background: #18A558;
