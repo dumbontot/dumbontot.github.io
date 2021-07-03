@@ -21,7 +21,6 @@ header{
   margin-top: auto;
   color: white;
   font-family: Sans Serif;
-  word-spacing: 20px;
 }
 head{
   <img src="logo.png" alt="logo"
@@ -42,6 +41,7 @@ ul li{
   list-style-type: none;
   text-align: center;
   border: 1px solid transparent;
+  word-spacing: 20px;
 }
 ul li a:hover{
   background: #18A558;
