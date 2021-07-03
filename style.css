@@ -23,23 +23,20 @@ head{
   position: absolute;
   top: -15px;
 }
-  header{
+  ul{
   text-align: right;
   list-style-type: none;
   margin-top: auto;
   color: white;
   font-family: Sans Serif;
 }
-ul{
+header{
   text-align: right;
 }
 ul li{
-  display: flex;
-  align-items: flex-start;
+  display: inline-block;
   float: right;
-  justify-content: space-between;
   border: 1px solid transparent;
-  opacity: 0.2;
 }
 ul li a:hover{
   background: #18A558;
