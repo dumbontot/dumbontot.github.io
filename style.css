@@ -39,7 +39,7 @@ ul li{
   align-items: flex-start;
   float: right;
   justify-content: space-between;
-  background-color:black;
+  border: 1px solid transparent;
   opacity: 0.2;
 }
 ul li a:hover{
