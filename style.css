@@ -39,6 +39,7 @@ ul li{
   line-height: 100%;
   float: right;
   border: 1px solid transparent;
+  padding: 10px;
 }
 ul li a:hover{
   background: #18A558;
