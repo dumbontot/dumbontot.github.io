@@ -14,14 +14,6 @@ h1{
   color: white;
   font-family: open sans;
 }
-}
-header{
-  text-align: right;
-  list-style-type: none;
-  margin-top: auto;
-  color: white;
-  font-family: Sans Serif;
-}
 head{
   <img src="logo.png" alt="logo"
   style="float: left;
@@ -30,6 +22,13 @@ head{
   width: 111px;
   position: absolute;
   top: -15px;
+}
+  header{
+  text-align: right;
+  list-style-type: none;
+  margin-top: auto;
+  color: white;
+  font-family: Sans Serif;
 }
 ul{
   text-align: right;
