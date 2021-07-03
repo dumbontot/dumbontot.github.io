@@ -1,20 +1,17 @@
 body{
-  background-color: #373737;
+  background-color: black;
     height: 100vh;
     color: #373737;
 }
 h1{
   color: white;
   font-size: 50px;
-  font-family: Copperplate Gothic;
+  font-family: Roboto Condensed;
+  text-align: center;
 }
 p{
-  color: white;
+  color: grey;
   font-size: 20px;
   font-family: Sans Serif;
-}
-.section{
-  color: red;
-  font-size: 20px;
-  font-family: Sans Serif;
+  text-align: center;
 }
