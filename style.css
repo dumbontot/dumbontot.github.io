@@ -39,7 +39,8 @@ ul li{
   align-items: flex-start;
   float: right;
   justify-content: space-between;
-  background-color: white;
+  background-color:black;
+  opacity: 0.2;
 }
 ul li a:hover{
   background: #18A558;
