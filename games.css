@@ -15,3 +15,14 @@ p{
   font-family: Sans Serif;
   text-align: center;
 }
+ul{
+  text-align: center;
+}
+
+img {
+  <img src="slope.png" alt="logo"
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
