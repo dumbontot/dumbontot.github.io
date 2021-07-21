@@ -6,14 +6,6 @@ tittle{
 body{
   background-color: black;
 }
-h1{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,-50%); 
-  color: white;
-  font-family: open sans;
-}
 head{
   <img src="logo.png" alt="logo"
   style="float: left;
