@@ -4,7 +4,7 @@ tittle{
   font-family: Sans Serif;
 }  
 body{
-  background-color: black;
+  background-image: url("background.png");
 }
 head{
   <img src="logo.png" alt="logo"
