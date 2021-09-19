@@ -5,6 +5,8 @@ tittle{
 }  
 body{
   background-image: url("bg.png");
+   background-repeat:no-repeat;
+   background-size:cover;
 }
 head{
   <img src="logo.png" alt="logo"
