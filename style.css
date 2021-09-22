@@ -30,6 +30,8 @@ header{
 ul li{
   display: inline-block;
   float: right;
+  padding: 5px;
+  text-align: center;
   border: 1px solid transparent;
 }
 ul li a:hover{
