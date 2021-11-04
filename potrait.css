@@ -1,1 +1,41 @@
 
+tittle{
+  color: white;
+  font-size: 40px;
+  font-family: Sans Serif;
+}  
+body{
+   background-image: url("1634274141735")
+   background-repeat:no-repeat;
+   background-size:cover;
+}
+head{
+  <img src="logo.png" alt="logo"
+  style="float: left;
+  border-radius: 8px;
+  height: 100px;
+  width: 111px;
+  position: absolute;
+  top: -15px;
+}
+  ul{
+  text-align: right;
+  list-style-type: none;
+  margin-top: auto;
+  color: black;
+  font-family: Sans Serif;
+}
+header{
+  text-align: right;
+}
+ul li{
+  display: inline-block;
+  float: right;
+  padding: 5px;
+  text-align: center;
+  border: 1px solid transparent;
+}
+ul li a:hover{
+  background: #18A558;
+  box-shadow:0 0 5px #18A558, 0 0 25px #18A558, 0 0 50px #18A558, 0 0 200px #18A558;
+}
