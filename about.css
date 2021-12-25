@@ -15,8 +15,16 @@ h1{
   font-family: Roboto Condensed;
   text-align: center;
 }
-header{
+ ul{
+  text-align: right;
+  list-style-type: none;
+  margin-top: auto;
+  color: black;
+  font-family: Sans Serif;
+}
+ul li{
+  display: inline-block;
   float: right;
   padding: 5px;
-  margin-top: auto;
-}
+  text-align: center;
+  border: 1px solid transparent;
