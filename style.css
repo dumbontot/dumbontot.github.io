@@ -19,15 +19,15 @@ head{
   position: absolute;
   top: -15px;
 }
+header{
+  text-align: right;
+}
   ul{
   text-align: right;
   list-style-type: none;
   margin-top: auto;
   color: black;
   font-family: Sans Serif;
-}
-header{
-  text-align: right;
 }
 ul li{
   display: inline-block;
