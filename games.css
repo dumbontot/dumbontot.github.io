@@ -7,7 +7,8 @@ centre.{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 70%;
+  border: 1px solid green;
 }
 h1{
   color: white;
