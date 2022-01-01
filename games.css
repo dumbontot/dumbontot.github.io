@@ -3,13 +3,6 @@ body{
     height: 100vh;
     color: #373737;
 }
-center.{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 70%;
-  border: 1px solid green;
-}
 h1{
   color: white;
   font-size: 50px;
