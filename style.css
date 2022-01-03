@@ -4,7 +4,7 @@ tittle{
   font-family: Sans Serif;
 }  
 body{
-   background-image: url("bgs.png");
+   background-image: url("backgrounds.png");
    background-repeat:no-repeat;
    background-size:cover;
    background-position: center center;
