@@ -9,6 +9,7 @@ head{
 }
 ul{
   text-align: center;
+  font-size: 50px;
   list-style-type: none;
   margin-top: auto;
   color: white;
