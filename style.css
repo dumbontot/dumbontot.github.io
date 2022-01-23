@@ -2,6 +2,7 @@ tittle{
   color: white;
   font-size: 70px;
   font-family: Sans Serif;
+  text-align:center;
 }  
 body{
   background-color: black;
@@ -27,7 +28,6 @@ header{
 }
 ul li{
   display: inline-block;
-  float: right;
   padding: 5px;
   text-align: center;
   border: 1px solid transparent;
