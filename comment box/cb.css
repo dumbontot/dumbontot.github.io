@@ -1,1 +1,7 @@
-
+container {
+	max-width: 640px;
+	margin: 30px auto;
+	background: #fff;
+	border-radius: 8px;
+	padding: 20px;
+}
