@@ -1,35 +1,22 @@
 tittle{
   color: white;
-  font-size: 70px;
-  font-family: Sans Serif;
-  text-align:center;
 }  
 body{
   background-color: black;
 }
 head{
   <img src="logo.png" alt="logo"
-  style="float: left;
-  border-radius: 8px;
-  height: 100px;
-  width: 111px;
-  position: absolute;
-  top: -15px;
 }
-header{
-  text-align: right;
-}
- ul{
-  text-align: right;
+ul{
+  text-align: center;
   list-style-type: none;
   margin-top: auto;
-  color: black;
+  color: white;
   font-family: Sans Serif;
 }
 ul li{
   display: inline-block;
   padding: 5px;
-  text-align: center;
   border: 1px solid transparent;
 }
 ul li a:hover{
