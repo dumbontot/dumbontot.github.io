@@ -1,0 +1,30 @@
+body{
+   background-color: black;
+     height: 100vh;
+     color: #373737;
+ }
+ p{
+   color: grey;
+   font-size: 20px;
+   font-family: Sans Serif;
+   text-align: center;
+ }
+ h1{
+   color: white;
+   font-size: 50px;
+   font-family: Roboto Condensed;
+   text-align: center;
+ }
+  ul{
+   text-align: right;
+   list-style-type: none;
+   margin-top: auto;
+   color: black;
+   font-family: Sans Serif;
+ }
+ ul li{
+   display: inline-block;
+   float: right;
+   padding: 5px;
+   text-align: center;
+   border: 1px solid transparent;
