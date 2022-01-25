@@ -17,14 +17,3 @@ body{
    font-family: Sans Serif;
    text-align: center;
  }
-body {
-    background: dodgerblue linear-gradient(45deg, black, #87ae73, white) fixed;
-
-}
-#comment-box, #post {
-    border: none;
-    border-radius: 5px;
-}
-#post:hover{
-    background-color: grey;
-}
