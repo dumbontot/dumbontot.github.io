@@ -73,24 +73,6 @@
     <div class="container">
      <div class="box"></div>
      <button type="button" namae="button" id="delete">delete</button>
-     <script type="text/javascript">
-      $(document).ready(function(){
-         $('#comment').click(function(){
-          var input= $('#input').val();
-          $('.box').append(input +'<br>');
-          $('#input').val('');
-          $('.box-container').slideDown();
-         });
-          
-         $('#cancel').click(function(){
-          $('#input').val('');
-         });
-       
-         $('#delete').click(function(){
-          $('.box').text('');
-          $('.box-container').slideUp();
-         });
-      });
  </body>
-    <script src="cb.js" charset="utf-8"></script>
+    <script src="feedback.js" charset="utf-8"></script>
  </html>
