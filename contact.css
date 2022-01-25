@@ -1,4 +1,8 @@
-
+body{
+   background-color: black;
+     height: 100vh;
+     color: #373737;
+ }
  h1{
    color: white;
    font-size: 50px;
