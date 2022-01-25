@@ -1,7 +1,7 @@
 .container {
 	max-width: 640px;
 	margin: 30px auto;
-	background: grey;
+	background: #fff;
 	border-radius: 8px;
 	padding: 20px;
 }
@@ -22,7 +22,7 @@
 	padding: 5px 10px;
 	height: 50%;
 	border-radius: 5px 5px 0px 0px;
-	border-bottom: 2px solid #aqua;
+	border-bottom: 2px solid #016BA8;
 	transition: all 0.5s;
 	margin-top: 15px;
 }
