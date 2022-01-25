@@ -4,12 +4,26 @@
    <h1>MY GAMES</h1>
      <p>Here is a part of the game I'm working on, GOL(Game Of Life), a singaporean life simulator game.</p>
      <iframe frameborder="0" width="80%" height="60%" src="https://replit.com/@dumbontot/GOL?lite=1&outputonly=1"></iframe>
-      <input type="text" id="comment-box" placeholder="Enter comment">
-   
   </body>
-     <link rel="stylesheet" type="text/css" href="games.css">
-  <head>
+    <link rel="stylesheet" type="text/css" href="games.css">
     <script src="cb.js"></script>
     <link rel="stylesheet" href="cb.css">
-</head>
+
+  <section id="app">
+    <div class="container">
+      <div class="row">
+        <div class="col-6">
+          <div class="comment">
+        <p v-for="items in item" v-text="items"></p>
+          </div><!--End Comment-->
+          </div><!--End col -->
+          </div><!-- End row -->
+      <div class="row">
+        <div class="col-6">
+      <textarea type="text" class="input" placeholder="Write a comment" v-model="newItem" @keyup.enter="addItem()"></textarea>
+          <button v-on:click="addItem()" class='primaryContained float-right' type="submit">Add Comment</button>
+        </div><!-- End col -->
+      </div><!--End Row -->
+    </div><!--End Container -->
+  </section><!-- end App -->
 </html>
