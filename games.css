@@ -17,15 +17,14 @@ body{
    font-family: Sans Serif;
    text-align: center;
  }
-title{
-  color: white;
-  font-size: 50px;
-  font-family: Roboto Condensed;
-  text-align: center;
+body {
+    background: dodgerblue linear-gradient(45deg, black, #87ae73, white) fixed;
+
 }
-ul{
-  color: grey;
-  font-family: sans serif;
-  text-align: right;
-  font-size: 20px;
+#comment-box, #post {
+    border: none;
+    border-radius: 5px;
+}
+#post:hover{
+    background-color: grey;
 }
